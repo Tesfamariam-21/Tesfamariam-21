@@ -7,7 +7,7 @@
 🎓 B.Sc. in Software Engineering | AASTU  
 📊 ALX Data Science Graduate  
 🚀 Passionate about backend engineering, fintech solutions,  AI applications and scalable software systems.   
-🧠 **problem solver** with a strong foundation in algorithms and systems thinking.  
+🧠 **Problem solver** with a strong foundation in algorithms and systems thinking.  
 
 ---
 
